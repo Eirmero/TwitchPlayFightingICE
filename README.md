@@ -26,6 +26,7 @@ avoid: perform an urgent avoidance
 skill: Use the character’s small skills  
 super: use the character’s ultimate skill when the energy is full  
   
-Rememer that when your character is to the left of your opponent, you need to precede the command with  
-"l:" This command is also because the command operated during character conversion requires orientation transformation.  
+Rememer that when your character is to the left of your opponent, you need to precede the command with   
+"l:"   
+This command is also because the command operated during character conversion requires orientation transformation.    
 e.g. "l:attach"  
