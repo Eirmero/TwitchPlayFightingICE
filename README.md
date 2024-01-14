@@ -6,3 +6,4 @@ Please use python 3.9 or above and install the following non-standard library pa
 
 pip install keyboard pydirectinput pyautogui requests pynput
 
+# After completing the environment setup, execute the Twitchplays program. 
