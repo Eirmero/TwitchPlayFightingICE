@@ -118,6 +118,24 @@ def handle_message(message):
             time.sleep(0.5)
             pyautogui.press('l')
             pyautogui.press('l')
+            # qwq
+            pyautogui.press('j')
+            pyautogui.keyDown('j')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('j')
+            time.sleep(0.5)
+            pyautogui.press('l')
+            pyautogui.press('l')
+            # qwq
+            pyautogui.press('j')
+            pyautogui.keyDown('j')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('j')
+            time.sleep(0.5)
+            pyautogui.press('l')
+            pyautogui.press('l')
 
         
         if msg == "pursue":
@@ -127,6 +145,25 @@ def handle_message(message):
             pyautogui.keyUp('l')
             time.sleep(0.05)
             pyautogui.press('t')
+            pyautogui.press('l')
+            pyautogui.press('l')
+            # qwq
+            pyautogui.press('j')
+            pyautogui.keyDown('j')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('j')
+            time.sleep(0.5)
+            pyautogui.press('l')
+            pyautogui.press('l')
+            time.sleep(1)
+            # qwq
+            pyautogui.press('j')
+            pyautogui.keyDown('j')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('j')
+            time.sleep(0.5)
             pyautogui.press('l')
             pyautogui.press('l')
 
@@ -169,6 +206,24 @@ def handle_message(message):
             time.sleep(0.5)
             pyautogui.press('l')
             pyautogui.press('l')
+            # qwq
+            pyautogui.press('j')
+            pyautogui.keyDown('j')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('j')
+            time.sleep(0.5)
+            pyautogui.press('l')
+            pyautogui.press('l')
+            # qwq
+            pyautogui.press('j')
+            pyautogui.keyDown('j')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('j')
+            time.sleep(0.5)
+            pyautogui.press('l')
+            pyautogui.press('l')
 
         if msg == "r:pursue":
             pyautogui.keyDown('k')
@@ -179,6 +234,35 @@ def handle_message(message):
             pyautogui.press('t')
             pyautogui.press('l')
             pyautogui.press('l')
+            # qwq
+            pyautogui.press('j')
+            pyautogui.keyDown('j')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('j')
+            time.sleep(0.5)
+            pyautogui.press('l')
+            pyautogui.press('l')
+            time.sleep(1)
+            # qwq
+            pyautogui.keyDown('k')
+            pyautogui.keyDown('l')
+            pyautogui.keyUp('k')
+            pyautogui.keyUp('l')
+            time.sleep(0.05)
+            pyautogui.press('t')
+            pyautogui.press('l')
+            pyautogui.press('l')
+            # qwq
+            pyautogui.press('j')
+            pyautogui.keyDown('j')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('j')
+            time.sleep(0.5)
+            pyautogui.press('l')
+            pyautogui.press('l')
+            
 
         if msg == "r:avoid":
             pyautogui.press('l')
@@ -211,14 +295,32 @@ def handle_message(message):
             pyautogui.press('l')
 
         if msg == "l:attack":
-            pyautogui.press('j')
-            pyautogui.keyDown('j')
+            pyautogui.press('l')
+            pyautogui.keyDown('l')
             time.sleep(0.5)
             pyautogui.press('t')
-            pyautogui.keyUp('j')
+            pyautogui.keyUp('l')
             time.sleep(0.5)
+            pyautogui.press('j')
+            pyautogui.press('j')
+            #qwq
             pyautogui.press('l')
+            pyautogui.keyDown('l')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('l')
+            time.sleep(0.5)
+            pyautogui.press('j')
+            pyautogui.press('j')
+            #qwq
             pyautogui.press('l')
+            pyautogui.keyDown('l')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('l')
+            time.sleep(0.5)
+            pyautogui.press('j')
+            pyautogui.press('j')
         
         if msg == "l:pursue":
             pyautogui.keyDown('k')
@@ -229,6 +331,36 @@ def handle_message(message):
             pyautogui.press('t')
             pyautogui.press('j')
             pyautogui.press('j')
+            #qwq
+            pyautogui.press('l')
+            pyautogui.keyDown('l')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('l')
+            time.sleep(0.5)
+            pyautogui.press('j')
+            pyautogui.press('j')
+            time.sleep(1)
+            #qwq
+            pyautogui.keyDown('k')
+            pyautogui.keyDown('j')
+            pyautogui.keyUp('k')
+            pyautogui.keyUp('j')
+            time.sleep(0.05)
+            pyautogui.press('t')
+            pyautogui.press('j')
+            pyautogui.press('j')
+            #qwq
+            pyautogui.press('l')
+            pyautogui.keyDown('l')
+            time.sleep(0.5)
+            pyautogui.press('t')
+            pyautogui.keyUp('l')
+            time.sleep(0.5)
+            pyautogui.press('j')
+            pyautogui.press('j')
+            
+
 
         if msg == "l:avoid":
             pyautogui.press('j')
