@@ -20,8 +20,8 @@ a1
 a2  
 These commands control your character to move and attack  
 Combination instructions:  
-attach: initiate an attack  
-Pursuit: Pursue your enemies  
+attack: initiate an attack  
+persue: Pursue your enemies  
 avoid: perform an urgent avoidance  
 skill: Use the character’s small skills  
 super: use the character’s ultimate skill when the energy is full  
